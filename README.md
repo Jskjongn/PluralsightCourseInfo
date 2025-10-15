@@ -113,4 +113,7 @@ CourseInfo/
 └── README.md
 ```
 
-> **Note:** This app is built for educational purposes and focuses on Java development, not deployment or production-readiness.
+## 📷 Screenshots
+![img.png](img.png)
+
+> **Note:** This app is built for educational purposes and focuses on Java development.
