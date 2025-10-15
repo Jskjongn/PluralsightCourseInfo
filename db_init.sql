@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS Courses (
+    id VARCHAR PRIMARY KEY NOT NULL,
+    name VARCHAR NOT NULL,
+    length INT NOT NULL,
+    url VARCHAR NOT NULL,
+    notes VARCHAR
+    );
